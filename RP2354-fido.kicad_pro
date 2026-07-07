@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RP2040-fido.kicad_pro",
+    "filename": "RP2354-fido.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -651,18 +651,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "RP2040-fido.kicad_sch",
-        "name": "Root",
+        "filename": "RP2354-fido.kicad_sch",
+        "name": "RP2354-fido",
         "uuid": "8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
       }
     ],
-    "used_designators": "#FLG1-4,D1,L1,#PWR34-36,C11",
+    "used_designators": "#FLG2,C10-11,#PWR16,#PWR31-32,#PWR34-40",
     "variants": []
   },
   "sheets": [
     [
       "8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8",
-      "Root"
+      "RP2354-fido"
     ]
   ],
   "text_variables": {},

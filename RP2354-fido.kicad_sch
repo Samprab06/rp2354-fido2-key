@@ -4295,22 +4295,10 @@
 		(uuid "208bac27-90ea-4937-b8bc-4065f78eecb8")
 	)
 	(junction
-		(at 184.15 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2596328e-571a-454a-8fbc-6ce8eb93a4c1")
-	)
-	(junction
 		(at 238.76 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a7f903d-0eb6-4f57-94c7-f2ba606c6749")
-	)
-	(junction
-		(at 220.98 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2cf46579-a4f3-4864-b529-0f43ed69ba1f")
 	)
 	(junction
 		(at 215.9 63.5)
@@ -4325,12 +4313,6 @@
 		(uuid "42e7cb5d-ec12-4124-ba5b-15598132aca3")
 	)
 	(junction
-		(at 184.15 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "54abfb8c-9bfa-41e7-bc7d-60e41e39e9c7")
-	)
-	(junction
 		(at 154.94 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4341,12 +4323,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "824d82e3-092b-499b-8492-6cbd7f7e5556")
-	)
-	(junction
-		(at 246.38 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "867959f9-3045-4bd8-a702-c927a8dabe36")
 	)
 	(junction
 		(at 223.52 63.5)
@@ -4361,18 +4337,6 @@
 		(uuid "8ab72ebd-163b-400e-a285-9626aae496fd")
 	)
 	(junction
-		(at 185.42 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "91f6fdbb-4f72-4a25-8d97-300d690b226d")
-	)
-	(junction
-		(at 220.98 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "beea955d-e48d-484a-96dc-0598d6778c81")
-	)
-	(junction
 		(at 175.26 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4385,10 +4349,10 @@
 		(uuid "da2abd03-b7bf-40a9-9b45-dc058173d2c7")
 	)
 	(junction
-		(at 220.98 114.3)
+		(at 93.98 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f83cf7b7-b8ce-41ff-bfec-93620b9323e0")
+		(uuid "ff175900-6685-4edf-b944-ed639a56e708")
 	)
 	(no_connect
 		(at 106.68 67.31)
@@ -4552,16 +4516,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 100.33) (xy 184.15 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07f9a09f-681f-4e0c-bba8-944f0f785d50")
-	)
-	(wire
-		(pts
 			(xy 38.1 115.57) (xy 38.1 114.3)
 		)
 		(stroke
@@ -4702,17 +4656,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 99.06) (xy 247.65 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4759a85c-6c6f-4d83-997c-efdd344eef97")
-	)
-	(wire
-		(pts
-			(xy 93.98 34.29) (xy 93.98 44.45)
+			(xy 93.98 34.29) (xy 93.98 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4729,26 +4673,6 @@
 			(type default)
 		)
 		(uuid "52eca28b-0e47-4e45-a526-9fd570ab57c9")
-	)
-	(wire
-		(pts
-			(xy 220.98 132.08) (xy 222.25 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "536a890b-75fd-4f8a-968a-ddb589b85e45")
-	)
-	(wire
-		(pts
-			(xy 185.42 115.57) (xy 184.15 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58eef94a-544d-4546-bc19-dcf1b227b036")
 	)
 	(wire
 		(pts
@@ -4772,13 +4696,13 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 133.35) (xy 186.69 133.35)
+			(xy 68.58 38.1) (xy 68.58 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "674724e3-a7c4-4a83-8b75-54fd18970038")
+		(uuid "6ce72530-acd7-4f98-a055-d8e5ef7e9196")
 	)
 	(wire
 		(pts
@@ -4812,16 +4736,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 99.06) (xy 220.98 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a8adabb-93f5-406c-9f8d-7b771d83176f")
-	)
-	(wire
-		(pts
 			(xy 40.64 105.41) (xy 38.1 105.41)
 		)
 		(stroke
@@ -4849,6 +4763,16 @@
 			(type default)
 		)
 		(uuid "91e818b0-1da5-4f07-8845-929504a365bc")
+	)
+	(wire
+		(pts
+			(xy 76.2 44.45) (xy 76.2 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92068c28-70a7-4047-94d9-d7c8db444cb9")
 	)
 	(wire
 		(pts
@@ -4922,6 +4846,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 35.56) (xy 74.93 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf08ac67-949c-42f1-8c7a-06c240e4a16d")
+	)
+	(wire
+		(pts
 			(xy 154.94 72.39) (xy 160.02 72.39)
 		)
 		(stroke
@@ -4952,13 +4886,13 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 114.3) (xy 220.98 114.3)
+			(xy 93.98 39.37) (xy 93.98 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e4f6ac57-2ff4-40dc-9ffd-eb9eb5b192be")
+		(uuid "e0a46303-e000-431c-adbe-c9583fd9d5ca")
 	)
 	(wire
 		(pts
@@ -5034,174 +4968,6 @@
 			)
 		)
 	)
-	(global_label "adc pwr"
-		(shape input)
-		(at 71.12 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0a1c5c09-6ed3-4709-877f-5c006daaf4dc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.12 33.8449 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "qspi pwr"
-		(shape input)
-		(at 222.25 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0fea9c4d-7248-496f-a4a8-409f4331cfff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.3994 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "usb pwr"
-		(shape input)
-		(at 222.25 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "542eb368-addd-4c76-a785-c85e31828740")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.7946 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "+3V3"
-		(shape input)
-		(at 186.69 133.35 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5a93cb20-332a-435f-a704-7704f40f3b56")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 194.0898 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "io pwr"
-		(shape input)
-		(at 78.74 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5bb01b2e-19ab-4c3c-9150-46dcbeb287e3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.74 35.4777 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "dvdd"
-		(shape input)
-		(at 222.25 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6094b858-fbfc-417d-a4fb-1f92c4e85894")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.6498 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "io pwr"
-		(shape input)
-		(at 247.65 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6dec32e5-3936-4823-87bb-c320e3fcf710")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.6223 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "usb d+"
 		(shape input)
 		(at 175.26 38.1 180)
@@ -5223,54 +4989,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "vreg pwr"
-		(shape input)
-		(at 185.42 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8072fb8c-fad8-4a90-a015-29ef1dfaf3ec")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 196.6299 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "usb pwr"
-		(shape input)
-		(at 68.58 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9ee632ae-55a2-45b3-964a-ca8c27f75d14")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 68.58 33.9054 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -5298,102 +5016,6 @@
 			)
 		)
 	)
-	(global_label "dvdd"
-		(shape input)
-		(at 83.82 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a8c577b1-7e56-42fb-9d7a-9384c039a5d2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.82 37.0502 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "vreg pwr"
-		(shape input)
-		(at 63.5 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b6020315-e412-496c-a9c3-1313ace7c621")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.5 33.2401 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "adc pwr"
-		(shape input)
-		(at 185.42 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "be82e30e-f295-4ce0-a336-a1495591490e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 196.0251 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "qspi pwr"
-		(shape input)
-		(at 76.2 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e4d794fe-da6b-4cec-a2f9-0a1c46f738db")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.2 33.3006 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "usb d-"
 		(shape input)
 		(at 182.88 49.53 180)
@@ -5415,84 +5037,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 220.98 127 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "022cd775-91c8-490e-9277-8ee6401b8883")
-		(property "Reference" "#PWR034"
-			(at 220.98 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 220.98 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.98 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7eab0e24-2c4a-4425-a74a-0eb566bebf9b")
-		)
-		(instances
-			(project "RP2040-fido"
-				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
-					(reference "#PWR034")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5567,7 +5111,7 @@
 			(uuid "104bda3e-9e24-488d-adfe-2d466dc2424f")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR014")
 					(unit 1)
@@ -5646,7 +5190,7 @@
 			(uuid "67aa154d-43ec-45b9-8d4e-cff442e577df")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR011")
 					(unit 1)
@@ -5725,7 +5269,7 @@
 			(uuid "e8392b6a-1224-4fdd-934b-d718f9c16bad")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR021")
 					(unit 1)
@@ -5806,7 +5350,7 @@
 			(uuid "05324468-5bbc-4e4f-b153-98f17e96b710")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C7")
 					(unit 1)
@@ -5884,9 +5428,87 @@
 			(uuid "fcdadf60-7122-4853-b5f0-3803f8892d7a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 247.65 109.22 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "134d33c6-5384-48ba-b91d-05b6e8995f8d")
+		(property "Reference" "#PWR031"
+			(at 247.65 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 247.65 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 247.65 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e7a19adb-1d0c-4952-8783-a78e56a02ba5")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -5962,7 +5584,7 @@
 			(uuid "4c88813e-2bc3-4137-a3f1-051dff0412ab")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR028")
 					(unit 1)
@@ -6040,7 +5662,7 @@
 			(uuid "d2c130a1-400c-4956-a024-c1fca888395a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR026")
 					(unit 1)
@@ -6118,7 +5740,7 @@
 			(uuid "be929397-8cd0-4311-a09e-08659f2c05dd")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR05")
 					(unit 1)
@@ -6206,7 +5828,7 @@
 			(uuid "1ae1ebce-73e5-4150-a79e-7c0724f1240e")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "D1")
 					(unit 1)
@@ -6284,7 +5906,7 @@
 			(uuid "58918dbe-c249-4737-850f-8a1a31c90016")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR08")
 					(unit 1)
@@ -6294,7 +5916,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 184.15 115.57 90)
+		(at 185.42 120.65 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6305,7 +5927,7 @@
 		(fields_autoplaced yes)
 		(uuid "21819f70-a9a4-4144-bd3c-a87abd91dbc7")
 		(property "Reference" "#PWR019"
-			(at 187.96 115.57 0)
+			(at 189.23 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6316,7 +5938,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 180.34 115.5699 90)
+			(at 181.61 120.6499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6327,7 +5949,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 115.57 0)
+			(at 185.42 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6338,7 +5960,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 115.57 0)
+			(at 185.42 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6349,7 +5971,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 184.15 115.57 0)
+			(at 185.42 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6363,9 +5985,87 @@
 			(uuid "a0c76676-0b83-4fbf-8d3e-d84f65b7e1b4")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 162.56 96.52 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29f96c0f-57df-4dc3-b8d3-864bf01fa496")
+		(property "Reference" "#PWR034"
+			(at 162.56 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 162.56 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 162.56 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97bd698f-a7db-40ba-ad46-fd3f26d44b4f")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -6442,7 +6142,7 @@
 			(uuid "dcc30945-08fe-499f-8767-8be9e988fc80")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR012")
 					(unit 1)
@@ -6521,7 +6221,7 @@
 			(uuid "c1fc0b2c-07b5-4265-8070-94e82e336eae")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR015")
 					(unit 1)
@@ -6599,7 +6299,7 @@
 			(uuid "f5b8327b-592a-4c68-aa7b-59a2ad1088e1")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR010")
 					(unit 1)
@@ -6678,87 +6378,9 @@
 			(uuid "c73f4ff4-0f96-4f00-8a19-1d2ed7d222c7")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 185.42 128.27 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "38fe2405-a8a1-4440-99ef-70173d4665eb")
-		(property "Reference" "#PWR031"
-			(at 185.42 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 185.42 123.19 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "91a3b006-7d50-4733-ab81-fee0372aa4cb")
-		)
-		(instances
-			(project "RP2040-fido"
-				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
-					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -6837,90 +6459,9 @@
 			(uuid "75bcb1a3-d6c0-4f7b-a254-ab2b4572f17c")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 220.98 129.54 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4216f3b7-2355-4c2f-8a13-a1e46899bda5")
-		(property "Reference" "C11"
-			(at 223.52 126.746 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4.7"
-			(at 223.52 129.032 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 220.98 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a939231c-f741-43c5-a291-4da31e91ae53")
-		)
-		(pin "2"
-			(uuid "31cafe47-b421-4a03-b9cd-b41226f53ef6")
-		)
-		(instances
-			(project "RP2040-fido"
-				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
-					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -6999,9 +6540,166 @@
 			(uuid "b2a583b8-1a8a-4cea-b34b-571ce3574e28")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 162.56 101.6 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5446a79c-1722-43e8-b03b-2f75e7ca91ed")
+		(property "Reference" "#PWR016"
+			(at 162.56 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 162.56 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 162.56 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b23a416c-fcd6-4edf-9be9-84664c074ed1")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 247.65 114.3 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55c3bce1-0bde-41f0-88aa-d2cb4e1be114")
+		(property "Reference" "#PWR032"
+			(at 251.46 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 243.84 114.2999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 247.65 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "141224c2-4e07-461d-8071-4ea5eca5afa6")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -7078,9 +6776,90 @@
 			(uuid "4d6a6eeb-4efc-4c6b-ad6e-5a02258fab48")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 162.56 99.06 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5959b10f-0f56-4241-b184-0e4c656d1846")
+		(property "Reference" "C11"
+			(at 165.1 96.266 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 165.1 98.552 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 162.56 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2fe3a498-4895-4d07-baa9-68c07d2cd3dc")
+		)
+		(pin "2"
+			(uuid "3989f35d-2d50-44c5-8f0e-292bd695c65a")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7157,7 +6936,7 @@
 			(uuid "c35ebdc5-d108-43e8-878f-8f21f281b58e")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R2")
 					(unit 1)
@@ -7235,7 +7014,7 @@
 			(uuid "41dac714-16f4-4b0a-b0ca-65aad751d2de")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR013")
 					(unit 1)
@@ -7316,7 +7095,7 @@
 			(uuid "97508d15-0477-492f-a521-c167f4a8e4e9")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C6")
 					(unit 1)
@@ -7394,7 +7173,7 @@
 			(uuid "6bb6acad-6db0-4533-8fce-ab8b599ec15e")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR04")
 					(unit 1)
@@ -7474,7 +7253,7 @@
 			(uuid "e047849d-6a8f-4bd9-980f-74ce2ae8743a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "SW1")
 					(unit 1)
@@ -7553,7 +7332,7 @@
 			(uuid "b3a9e4ae-f196-4e24-81dd-90ac89bfa1e6")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R7")
 					(unit 1)
@@ -7632,7 +7411,7 @@
 			(uuid "2b25ed6f-2dd6-4ec5-bd46-8315fd68b16a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R5")
 					(unit 1)
@@ -7913,7 +7692,7 @@
 			(uuid "1d7c80ee-d452-430e-945d-eaec6cab20c3")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "U4")
 					(unit 1)
@@ -7923,7 +7702,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small_US")
-		(at 184.15 113.03 180)
+		(at 185.42 118.11 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7933,7 +7712,7 @@
 		(dnp no)
 		(uuid "72220012-ff35-4e01-86c2-2bd9b7874a9a")
 		(property "Reference" "C4"
-			(at 186.69 110.236 0)
+			(at 187.96 115.316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7944,7 +7723,7 @@
 			)
 		)
 		(property "Value" "1uf"
-			(at 186.69 112.522 0)
+			(at 187.96 117.602 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7955,7 +7734,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 113.03 0)
+			(at 185.42 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7966,7 +7745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 113.03 0)
+			(at 185.42 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7977,7 +7756,7 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
-			(at 184.15 113.03 0)
+			(at 185.42 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7994,7 +7773,7 @@
 			(uuid "da420648-1166-4c04-8a41-8a46934fa805")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C4")
 					(unit 1)
@@ -8073,7 +7852,7 @@
 			(uuid "90b4863a-a279-435e-9d6b-fe502092d5f7")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#FLG04")
 					(unit 1)
@@ -8151,9 +7930,166 @@
 			(uuid "d54ed2e8-494f-4a2b-ae19-93d156a73c00")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 93.98 39.37 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76e12785-2e21-411f-9bc5-b661055e1db8")
+		(property "Reference" "#FLG02"
+			(at 95.885 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 97.79 39.3699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 93.98 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0ef73849-0faf-4c01-831b-150baf4553b3")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 68.58 38.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e250b9f-a00f-49e5-aaf8-45e4979e6b58")
+		(property "Reference" "#PWR036"
+			(at 68.58 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 68.58 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 68.58 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0c794dbc-2d29-4b90-b1d1-8ff101154417")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -8272,7 +8208,7 @@
 			(uuid "e58f1ede-bd8a-4629-9bbf-14d904a1ae39")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "J1")
 					(unit 1)
@@ -8302,7 +8238,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "3.3 uH"
 			(at 90.17 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8352,7 +8288,7 @@
 			(uuid "a9cf890b-7902-4548-b2d6-4e93ba9ce36a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "L1")
 					(unit 1)
@@ -8430,7 +8366,7 @@
 			(uuid "a4264077-ae88-4dc4-85a4-0ddabf194f0a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR01")
 					(unit 1)
@@ -8508,7 +8444,7 @@
 			(uuid "1e647964-41e3-4aa6-9ef4-7f5e29785fa2")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR06")
 					(unit 1)
@@ -8584,7 +8520,7 @@
 			(uuid "38edf5e0-fdb1-4268-b402-2029c325512a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "TP2")
 					(unit 1)
@@ -8660,7 +8596,7 @@
 			(uuid "1db7ffc5-7ce5-42ff-881f-f33e3c1e364e")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "TP1")
 					(unit 1)
@@ -8739,7 +8675,7 @@
 			(uuid "22361956-211c-4183-8901-9aee1d908b42")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR07")
 					(unit 1)
@@ -8749,7 +8685,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 184.15 110.49 180)
+		(at 185.42 115.57 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8760,7 +8696,7 @@
 		(fields_autoplaced yes)
 		(uuid "997cf8f8-e19a-4045-abfa-59f43f623cd6")
 		(property "Reference" "#PWR018"
-			(at 184.15 104.14 0)
+			(at 185.42 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8771,7 +8707,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 184.15 105.41 0)
+			(at 185.42 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8781,7 +8717,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 110.49 0)
+			(at 185.42 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8792,7 +8728,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 110.49 0)
+			(at 185.42 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8803,7 +8739,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 184.15 110.49 0)
+			(at 185.42 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8817,7 +8753,7 @@
 			(uuid "063718f8-833c-436f-b29b-b817d09ff430")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR018")
 					(unit 1)
@@ -8895,7 +8831,7 @@
 			(uuid "c0968197-abd7-4e80-838d-ec1ccedc312d")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR09")
 					(unit 1)
@@ -8976,7 +8912,7 @@
 			(uuid "6870a555-2812-4371-aef6-44d5aab7b39a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C8")
 					(unit 1)
@@ -9055,7 +8991,7 @@
 			(uuid "5d1cf3e4-7c48-4f19-ac82-ed2d872cac8b")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR017")
 					(unit 1)
@@ -9133,88 +9069,9 @@
 			(uuid "7d7aeb70-b047-4eb9-84aa-ef899a0c71d9")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 185.42 133.35 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a8195f0c-ffd2-4716-bc94-98cf16310d42")
-		(property "Reference" "#PWR032"
-			(at 189.23 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 181.61 133.3499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 185.42 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "67727a9a-b7df-4c2d-91a1-dd892ccb6063")
-		)
-		(instances
-			(project "RP2040-fido"
-				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
-					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -9291,7 +9148,7 @@
 			(uuid "94c755c5-3f6c-4b43-83b3-e9951204d012")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R3")
 					(unit 1)
@@ -9370,7 +9227,7 @@
 			(uuid "142104a0-7382-4bf6-bbd3-ebb444d63ec2")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R1")
 					(unit 1)
@@ -9448,88 +9305,9 @@
 			(uuid "b5807e66-0945-4bf4-a4e4-ee740ae3112c")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 220.98 132.08 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c1d1db50-709f-4eac-ac82-4490324a1e3a")
-		(property "Reference" "#PWR035"
-			(at 224.79 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 217.17 132.0799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 220.98 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "18460f3c-e8bd-47a3-96aa-e635f88f54cb")
-		)
-		(instances
-			(project "RP2040-fido"
-				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
-					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -9608,9 +9386,165 @@
 			(uuid "5b0c0276-cf2d-41d2-aa5a-756111f00593")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 63.5 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c31c2fc6-6a14-42c3-8aed-156dbf129a77")
+		(property "Reference" "#PWR035"
+			(at 63.5 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 63.5 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 63.5 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "119a9acd-92ea-4e0d-a14b-ef9e232731aa")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 74.93 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c368ae76-5123-42c9-83d9-46eb4640012e")
+		(property "Reference" "#PWR039"
+			(at 74.93 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 74.93 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 74.93 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9979cfa4-1b2e-4f0f-a8ba-f51043bbd62f")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -9687,7 +9621,7 @@
 			(uuid "5d208dc2-bd30-4647-b726-a370644f2c72")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR033")
 					(unit 1)
@@ -9768,7 +9702,7 @@
 			(uuid "54312b6e-1133-4c22-928f-6178c4bb2f2d")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C2")
 					(unit 1)
@@ -9846,7 +9780,7 @@
 			(uuid "ef197636-3492-4f5a-b1ba-3cdb3e8b93c0")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR022")
 					(unit 1)
@@ -9925,9 +9859,87 @@
 			(uuid "1a1c880e-3130-4e70-9cf0-b4efd7a9fd64")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 71.12 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da9ba634-e50e-4b34-80be-047de7e545b0")
+		(property "Reference" "#PWR037"
+			(at 71.12 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 71.12 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 71.12 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "20399aff-43d2-43ae-8580-3863f0ba088e")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -10003,9 +10015,90 @@
 			(uuid "985446c5-e055-4abb-86f2-6ee837b4c044")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 247.65 111.76 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e37ef05e-7eb2-45cd-b2eb-36c0f90ed456")
+		(property "Reference" "C10"
+			(at 250.19 108.966 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nf"
+			(at 250.19 111.252 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 247.65 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c6f66fce-797e-4ae9-9dca-1816541afd3a")
+		)
+		(pin "2"
+			(uuid "018f6934-24c6-40f5-ad3b-6503345f1250")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -10082,7 +10175,7 @@
 			(uuid "a6f3ef9a-39b8-4be5-9e83-0e5a1b69683a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "R4")
 					(unit 1)
@@ -10160,7 +10253,7 @@
 			(uuid "09a293fd-89e3-4cc9-bb3b-b60a4adfec1a")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR020")
 					(unit 1)
@@ -10239,90 +10332,9 @@
 			(uuid "7f7eb3d5-b530-4173-ab3d-f75e35ab713d")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 185.42 130.81 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e8e9653d-def6-4999-acc5-b69de3c49308")
-		(property "Reference" "C10"
-			(at 187.96 128.016 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100nf"
-			(at 187.96 130.302 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 185.42 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4d98abe8-def7-4a76-a7a8-6ea8a55cf569")
-		)
-		(pin "2"
-			(uuid "6475f6d0-45d0-44fa-a844-4a34712cf330")
-		)
-		(instances
-			(project "RP2040-fido"
-				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
-					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -10401,7 +10413,7 @@
 			(uuid "814bcd04-252c-4235-b2d2-855ccfb3769b")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "Y1")
 					(unit 1)
@@ -10480,9 +10492,165 @@
 			(uuid "97c58a05-b146-4ae9-bfcb-4f6db5126cca")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 83.82 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eeeda7c3-fd81-49e9-a16c-74b785656165")
+		(property "Reference" "#PWR040"
+			(at 83.82 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 83.82 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 83.82 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "305a6c71-637e-416a-b114-5fd244142ebc")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 78.74 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f06a5ea1-f4a6-4765-b271-b4c74b315074")
+		(property "Reference" "#PWR038"
+			(at 78.74 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 78.74 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 78.74 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "439982c9-b787-430d-a61c-3fb22ec2bc7d")
+		)
+		(instances
+			(project "RP2354-fido"
+				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -10568,7 +10736,7 @@
 			(uuid "2fc45b7c-be47-4a82-a74b-3d6286e29426")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "U2")
 					(unit 1)
@@ -10665,7 +10833,7 @@
 			(uuid "f8d4a2d6-0c3f-4b2c-8df6-88284f30f867")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "U3")
 					(unit 1)
@@ -10746,7 +10914,7 @@
 			(uuid "5271141e-4bbf-452b-abd9-ae72eb3f0ba9")
 		)
 		(instances
-			(project "RP2040-fido"
+			(project "RP2354-fido"
 				(path "/8bf9a4bc-329b-43b3-bad1-6bc1059bf6d8"
 					(reference "C9")
 					(unit 1)

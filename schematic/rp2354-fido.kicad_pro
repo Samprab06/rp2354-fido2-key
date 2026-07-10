@@ -648,7 +648,7 @@
         "uuid": "8b864fd4-330f-412e-9d4a-a96f6ea45c65"
       }
     ],
-    "used_designators": "#PWR25-26,SW1",
+    "used_designators": "#PWR25-26,H1,SW1,FID1-3",
     "variants": []
   },
   "sheets": [
